@@ -22,7 +22,7 @@ export class LoginComponent implements OnInit {
   ngOnInit() {}
 
   onSubmit() {
-    //console.warn(this.profileForm.value);
+    // console.warn(this.profileForm.value);
     alert("bonjour!");
   }
 }
